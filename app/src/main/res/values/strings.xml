@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">kino</string>
+    <string-array name="filmGenre">
+        <item>Комедия</item>
+        <item>Мелодрама</item>
+        <item>Боевик</item>
+        <item>Детектив</item>
+        <item>Приключения</item>
+    </string-array>
+
+    <string-array name="from">
+        <item>Зарубежное</item>
+        <item>Отечественное</item>
+    </string-array>
+
+    <string-array name="none"></string-array>
+
+    <string-array name="comedy">
+        <item>Sakamoto Desu ga?</item>
+        <item>Danshi Koukousei no Nichijou</item>
+        <item>Tanaka-kun wa Itsumo Kedaruge</item>
+        <item>New Game!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+        <item>Hataraku Maou-sama!</item>
+    </string-array>
+
+    <string-array name="drama">
+        <item>Hauru no ugoku shiro</item>
+        <item>Kimi no na wa.</item>
+        <item>Tenki no ko</item>
+        <item>Sayonara no asa ni yakusoku no hana o kazaro</item>
+        <item>Byôsoku 5 senchimêtoru</item>
+    </string-array>
+
+    <string-array name="war">
+        <item>Girls und Panzer das Finale</item>
+        <item>Kimetsu no Yaiba: Kyoudai no Kizuna</item>
+        <item>Bungo sutorei doggusu: deddo appuru</item>
+        <item>Vampire Hunter D: Bloodlust</item>
+        <item>Kôkaku Kidôtai</item>
+    </string-array>
+
+    <string-array name="detective">
+        <item>Shingeki no Kyojin</item>
+        <item>Owarimonogatari</item>
+        <item>Kizumonogatari</item>
+        <item>Made in Abyss</item>
+        <item>Monogatari Series</item>
+    </string-array>
+
+    <string-array name="adventure">
+        <item>Fullmetal Alchemist</item>
+        <item>Hunter x Hunter</item>
+        <item>Sen to Chihiro no Kamikakushi</item>
+        <item>Cowboy Bebop</item>
+        <item>Mushishi Zoku</item>
+    </string-array>
+
+    <string name="showList">Показать список</string>
+</resources>
